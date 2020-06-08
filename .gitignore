@@ -1,0 +1,7 @@
+*.error
+*.out
+*.log
+/shared-lib/output/*.so
+/shared-lib/CMakeFiles/
+/shared-lib/cmake_install.cmake
+/shared-lib/CMakeCache.txt
