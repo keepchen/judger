@@ -4,6 +4,12 @@
 
 > **A pure judge tool based on QingdaoU Judger**
 
+- Environment dependency
+  * cmake
+  * make
+  * g++
+  * golang (optional)
+
 - How to use
 
 ```shell
