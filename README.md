@@ -26,4 +26,4 @@ LD_LIBRARY_PATH=$(pwd)/shared-lib/output go run main.go
 
 - Big thanks
 
-[QingdaoU/Judger](https://github.com/QingdaoU/Jugder)
+[QingdaoU/Judger](https://github.com/QingdaoU/Judger)
